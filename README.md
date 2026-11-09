@@ -131,19 +131,10 @@ La aplicación incluye un módulo de control de calidad ejecutable en vivo:
 
 ---
 
-## 🌐 Despliegue Público (GitHub Pages / Vercel)
-
-El proyecto está configurado con rutas relativas (`base: './'`), lo que permite desplegarlo en cualquier hosting estático gratuito:
+## 🌐 Despliegue Público (GitHub Pages)
 
 ### Despliegue en GitHub Pages:
-1. Sube tu código a un repositorio público en GitHub.
-2. En tu repositorio, ve a **Settings** > **Pages**.
-3. En **Source**, selecciona `Deploy from a branch` y elige la rama `gh-pages` o configura la acción automática de GitHub Actions para Vite.
-
-### Despliegue en Vercel / Netlify:
-1. Conecta tu repositorio de GitHub en [vercel.com](https://vercel.com).
-2. Framework Preset: **Vite**.
-3. Haz clic en **Deploy**. Tendrás tu enlace público HTTPS en segundos.
+https://oscarlpb.github.io/desafio-gradientes-metodos-numericos/
 
 ---
 
